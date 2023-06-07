@@ -4,7 +4,7 @@
 ## Zed's Github
 
 ```css
-Hello my name is Zed ^^
+Ben Çift Başlı Penguen'im ^^
 ```
  
 **Skills:**  
